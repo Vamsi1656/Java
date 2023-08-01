@@ -5,10 +5,10 @@ class Test{
         // Create an Array
 
         int[] marks={90,91,92,93,94};   
-        System.out.println(marks);     
- 
-            //  Read an Array
 
+
+         //  Read an Array
+        System.out.println(marks);     
         System.out.println(marks[0]);
         System.out.println(marks[1]);
         System.out.println(marks[2]);
