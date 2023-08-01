@@ -1,0 +1,27 @@
+What is Primitive Data Type?
+
+Ans: The data type which holds the single value.
+		It has 8 types:
+              
+		1.Byte
+		2.Short
+		3.Int
+		4.Long
+		5.Float
+		6.Double
+		7.Char
+		8.Boolean
+
+
+
+What is Reference Data Type?
+
+
+Ans: The data type which holds multiple values.
+
+		It has 4 types:
+	
+		1.Array
+		2.String
+		3.Array list
+		4.Linked list 
