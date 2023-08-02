@@ -12,9 +12,5 @@ class Test{
 ̣            System.out.println(t1.a);
             System.out.println(t2.a);
 
-            //How to update the values
-
-           
-
-    }
+      }
 }
