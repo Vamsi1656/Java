@@ -11,5 +11,10 @@ class Test{
                                   // Each object have there own copy(different copy)
 ̣            System.out.println(t1.a);
             System.out.println(t2.a);
+
+            //How to update the values
+
+           
+
     }
 }
