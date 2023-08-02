@@ -5,12 +5,16 @@ class Test{
     public static void main(String[] args){
                
             Test t1=new Test();   // If you want declared instance variable in main method,
-                                  // we need to create object using new keyword.
-            Test t2=new Test();   // We can create multiple objects.
+                                 // we need to create object using new keyword.
+             Test t2=new Test();   // We can create multiple objects.
                                   // Variable is varied from object to object.
                                   // Each object have there own copy(different copy)
-̣            System.out.println(t1.a);
-            System.out.println(t2.a);
+          System.out.println(t1);
+             System.out.println(t2.a);
+
+            t1.a=200;
+            System.out.println(t1.a);
+
 
       }
 }
