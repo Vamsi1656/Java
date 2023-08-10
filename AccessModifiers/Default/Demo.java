@@ -1,5 +1,5 @@
 package mypack;
-class Demo{
+public class Demo{
 
         static void m1(){
 
