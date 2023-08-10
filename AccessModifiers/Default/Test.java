@@ -2,9 +2,9 @@
 // Default Access Modifier is used within the package and within the class.
 
 package pack;
-     class Test{
+public class Test{
 
-    static void m1(){
+    public static void m1(){
         System.out.println("Hello,GE");
     }
 
